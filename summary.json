@@ -1,0 +1,21 @@
+{
+    "summary":[
+        { 
+            "id": 1, 
+            "nama": "Irvan",
+            "alamat" : "jalan kuningan timur raya",
+            "company" : "PT. Asiatek Indonesia",
+            "job_title" : "IT Staff",
+            "religion" : "Islam",
+            "phone_number" : "081024042018",
+            "email" : "irvan27@yahoo.co.id", 
+        }
+    ],
+    "detail": [
+        { "id": 1, 
+            "menginap": "Ya", 
+            "status": "Menikah",
+            "punya_anak" : "Ya" 
+        }
+      ],
+}
