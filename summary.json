@@ -8,7 +8,7 @@
             "job_title" : "IT Staff",
             "religion" : "Islam",
             "phone_number" : "081024042018",
-            "email" : "irvan27@yahoo.co.id", 
+            "email" : "irvan27@yahoo.co.id"
         }
     ],
     "detail": [
@@ -17,5 +17,5 @@
             "status": "Menikah",
             "punya_anak" : "Ya" 
         }
-      ],
+      ]
 }
